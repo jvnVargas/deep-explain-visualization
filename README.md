@@ -69,5 +69,4 @@ O estudo utiliza técnicas de **XAI** para alterar gradientes específicos do co
 
 ## 5. Exemplos de Saídas XAI
 
-![Exemplo de saída XAI](link_para_imagem_exemplo.png)  
-*Inclua imagens geradas pelo DeepExplain mostrando o impacto das técnicas em cada classe.*
+![Resultado Final - DeepExplain](data/resultado/resultado-DeepExplain.png)
